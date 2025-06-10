@@ -11,4 +11,4 @@ This repository contains whitepapers written during internships and research pro
 
 ---
 
-More papers will be added as I continue my academic and industry learning journey in cybersecurity and computer science
+More papers will be added as I continue my academic and industry learning journey in cybersecurity and computer science.
