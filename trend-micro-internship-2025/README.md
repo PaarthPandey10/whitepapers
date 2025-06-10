@@ -25,7 +25,7 @@ An Internship-Based Evaluation of Extended Detection and Response in Modern Secu
 - **Trend Micro Vision One** XDR platform
 
 ## 📁 Files Included
-- `WhitePaper_TMintship2025.pdf` – Final whitepaper
+- `whitepaper-tm-internship-2025.pdf` – Final whitepaper
 
 ## 🗂️ Tags
 `xdr` `vision-one` `internship` `credential-dumping` `t1003` `trend-micro` `security-analysis`
