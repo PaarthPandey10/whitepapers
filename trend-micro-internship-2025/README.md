@@ -1,35 +1,33 @@
 # Trend Micro Internship Whitepaper (2025)
 
-## 📄 Title
-**FOUNDATIONS AND ADVANCEMENTS IN CYBERSECURITY: LEVERAGING XDR FOR MONITORING AND INCIDENT RESPONSE**
-
-## 🧑‍💻 Author
-Paarth Pandey
-
-## 🏢 Internship
-Trend Micro UAE
-22 May 2025 – 4 June 2025
-
-## 📝 Overview
-An Internship-Based Evaluation of Extended Detection and Response in Modern Security.
-
-## 📌 Key Focus Areas
-- Simulating credential dumping using Mimikatz
-- Monitoring and detection using Vision One
-- Analyzing MITRE ATT&CK mapping (T1003)
-- Reviewing alerts, telemetry, and risk indicators
-
-## 🧪 Lab Environment
-- **Windows 10 VM** (attacker/simulation)
-- **Ubuntu Server VM** (network side monitoring)
-- **Trend Micro Vision One** XDR platform
-
-## 📁 Files Included
-- `whitepaper-tm-internship-2025.pdf` – Final whitepaper
-
-## 🗂️ Tags
-`xdr` `vision-one` `internship` `credential-dumping` `t1003` `trend-micro` `security-analysis`
+> Final whitepaper for the Trend Micro UAE cybersecurity internship.
 
 ---
 
-> 📢 *This paper was created as a part of an academic internship project. It reflects personal understanding and practical exploration, and is not an official publication from Trend Micro.*
+## Overview
+
+An internship-based evaluation of Extended Detection and Response (XDR) in modern cybersecurity.  
+The project involved simulating credential dumping and analyzing detection using Trend Micro Vision One.
+
+---
+
+## Key Highlights
+
+- Simulated credential dumping using Mimikatz  
+- Detection using Vision One platform  
+- MITRE ATT&CK mapping (T1003)  
+- Reviewed alerts, telemetry, and risk indicators  
+
+---
+
+## Contact
+
+For any questions or feedback, reach out:  
+**Paarth Pandey**  
+[LinkedIn](https://www.linkedin.com/in/paarth-pandey-13779529b/) | [GitHub](https://github.com/paarthpandey10) | paarthdxb@gmail.com
+
+---
+
+> Author: [Paarth Pandey](https://github.com/paarthpandey10)  
+>  
+> Trend Micro Internship
